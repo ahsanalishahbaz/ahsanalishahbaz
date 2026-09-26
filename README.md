@@ -65,7 +65,7 @@ I build projects to learn, experiment, and solve real-world problems while explo
 💻 Software Development  
 🤖 AI & Automation  
 🧪 Security Research  
-🚀 Founder of **Codensec** and **roothackerslab**
+🚀 Founder of **Codensec** and **Roothackerslab**
 
 
 </td>
