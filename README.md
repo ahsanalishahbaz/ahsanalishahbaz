@@ -1,23 +1,243 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahsan Shahbaz
-======================================================================================================================================
+<div align="center">
 
-Developer | Ethical Hacker and Founder of Codensec.com
-------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahsan+Shahbaz+%F0%9F%91%8B;Developer+%7C+Ethical+Hacker;Security+Researcher+%7C+AI+Builder;Web+Security+%7C+Automation" alt="Typing SVG" />
 
-I’m a Developer and Ethical Hacker passionate about software development, cybersecurity, AI, and web security. I build projects to learn, experiment, and solve real-world problems, while exploring security research and automation along the way. Always learning, building, and looking for new challenges in technology.
+<br><br>
 
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [chatwithahsanshahbaz@gmail.com](mailto:chatwithahsanshahbaz@gmail.com)
-* 👥  I'm looking to collaborate on Cyber Security and Development.
-* Founder of Codensec
+### `Developer` • `Ethical Hacker` • `Security Researcher`
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
+**AI & Software Development · Web Security · Automation**
+
+<br>
+
+<a href="https://github.com/ahsanalishahbaz">
+<img src="https://img.shields.io/github/followers/ahsanalishahbaz?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ff9c&labelColor=0d1117"/>
+</a>
+<a href="https://www.linkedin.com/in/ahsan-ali-302374412/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00ff9c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+
+</div>
+
+---
+
+## 🖥️ `whoami`
+
+<table>
+<tr>
+<td width="50%">
+
+<pre>
+┌──[ahsan@root]─[~]
+└─$ whoami
+
+Ahsan Shahbaz
+
+Role:
+  Developer
+  Ethical Hacker
+  Security Researcher
+
+Focus:
+  Web Security
+  AI & Software Development
+  Automation
+
+Status:
+  ● Building
+  ● Learning
+  ● Researching
+</pre>
+
+</td>
+
+<td width="50%">
+
+### 👨‍💻 About Me
+
+I'm a **Developer and Ethical Hacker** passionate about software development, cybersecurity, AI, and web security.
+
+I build projects to learn, experiment, and solve real-world problems while exploring security research and automation.
+
+🌍 **Lahore, Pakistan**
+
+🔐 Cybersecurity & Web Security  
+💻 Software Development  
+🤖 AI & Automation  
+🧪 Security Research  
+🚀 Founder of **Codensec** and **roothackerslab**
+
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ `CURRENTLY BUILDING`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Web Security
+
+Exploring web application security, security research and practical testing.
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Automation
+
+Building and experimenting with AI-powered software and automation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Software Development
+
+Turning ideas into practical applications, tools and experiments.
+
+</td>
+<td width="50%">
+
+### 🧪 Security Research
+
+Learning how systems work and exploring ways to make them more secure.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛡️ `SECURITY INTERESTS`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/WEB_SECURITY-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/ETHICAL_HACKING-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/SECURITY_RESEARCH-0d1117?style=for-the-badge&logo=protonvpn&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/AUTOMATION-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/AI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff9c"/>
+
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/ahsanalishahbaz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ahsan-ali-302374412/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+## ⚙️ `TECH STACK`
 
-<a href="https://github.com/ahsanalishahbaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanalishahbaz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,java,php,kotlin,bash" />
+</p>
+
+### Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,react,nextjs,tailwind,nodejs,express,fastapi,flask,laravel" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,graphql,git,docker,linux,ubuntu,vscode,figma,wordpress" />
+</p>
+
+---
+
+## 🚀 `FEATURED WORK`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ RootHackersLab
+
+Cybersecurity community focused on security learning, research and development.
+
+**Security · Research · Development**
+
+</td>
+<td width="50%">
+
+### 🔎 Security Projects
+
+Practical projects exploring web security, automation and security concepts.
+
+**Web Security · Automation · Research**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Projects
+
+Experiments and applications combining AI, software development and automation.
+
+**AI · Software · Automation**
+
+</td>
+<td width="50%">
+
+### 💻 Development
+
+Web applications, tools and experiments built while continuously learning.
+
+**Web · Software · Experiments**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 `GITHUB ACTIVITY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahsanalishahbaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanalishahbaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanalishahbaz&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+</div>
+
+---
+
+## 🌐 `CONNECT`
+
+<p align="center">
+
+<a href="https://github.com/ahsanalishahbaz">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahsan-ali-302374412/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
+</a>
+
+<a href="mailto:chatwithahsanshahbaz@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### `> BUILD • BREAK • LEARN • SECURE`
+
+**Thanks for visiting my profile.**
+
+</div>
