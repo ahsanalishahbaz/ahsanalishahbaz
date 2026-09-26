@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development, Cyber<br> Security & AI-powered projects<br>🤝 I’m looking to collaborate on Cybersecurity, AI & Software Development<br>🛡️ I’m looking for help with Advanced Web Security & Security Automation<br>🌱 I’m currently learning AI, Ethical Hacking & Security Research<br>💬 Ask me about Web Security, Ethical Hacking, Automation & Software Development<br>⚡ Fun fact: I enjoy turning complex problems into simple solutions
+🔭 I’m currently working on Development, Cyber<br> Security & AI-powered projects<br>🤝 I’m looking to collaborate on Cybersecurity, AI & Software Development<br>🛡️ I’m looking for help with Advanced Web Security & Security Automation<br>🌱 I’m currently learning AI, Ethical Hacking & Security Research<br>💬 Ask me about Web Security, Ethical Hacking, Automation & Software Development<br>⚡ Fun fact: I enjoy turning complex problems into simple solutions
 
 
 ## 🌐 Socials:
